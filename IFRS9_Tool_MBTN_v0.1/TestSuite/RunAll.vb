@@ -7,6 +7,7 @@ Imports System
 Imports System.IO
 
 <TestClass()> Public Class RunAll
+
     'datapath
     Dim strDataPath As String = "|DataDirectory|\AnadolubankDatabase_v0.0.accdb"
 
